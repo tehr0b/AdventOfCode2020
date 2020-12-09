@@ -13,14 +13,16 @@ namespace AdventOfCode2020 {
             //var day3 = new Day3();
             //var day4 = new Day4();
             //var day5 = new Day5();
-            var day6 = new Day6();
+            //var day6 = new Day6();
+            var day7 = new Day7();
             
             //day1.Run();
             //day2.Run();
             //day3.Run();
             //day4.Run();
             //day5.Run();
-            day6.Run();
+            //day6.Run();
+            day7.Run();
             
             stopwatch.Stop();
             
